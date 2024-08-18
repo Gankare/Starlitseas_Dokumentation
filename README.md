@@ -1,2 +1,3 @@
-# Starlitseas - What i have created and worked on during this 8 week project
+# Starlitseas - What i have created and worked on
 ### LevelDesign
+### Character movement and abillites
