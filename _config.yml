@@ -1,4 +1,3 @@
-title: Starlitseas Dokumentation
 #description: text below image
-show_downloads: true
-theme: jekyll-theme-Minimal
+show_downloads: false
+theme: jekyll-theme-Hacker
