@@ -20,8 +20,9 @@ It looks like this:
 
 ### Spirit Guide: 
 I added a talking ray that gives the player tips on what to do or encurrages the player to keep going every level. It's made with 3D widget over the ray, the ray always facing the player so that the text is facing the player. The text only shows when the player is close to the ray.
+
 ![](/Assets/TalkingRayScript.png)
-The rays text is set in the level blueprint.
+The rays text is set in the level blueprint. You can see the sprirt guide in the level design images below. 
 ![](/Assets/RayText_LevelBlueprint.png)
 
 ## LevelDesign
@@ -73,7 +74,7 @@ The level is like the third level but harder. It takes a combination of all the 
 ### Level 7: 
 The seventh level is the longest one, it has two possible paths for the player to go right from the start, one faster than the other. There is a bunch of gliding in this level and it gives of a magical/fantasy feeling.
 
-Midlevel there is a giant leap of faith, fog should be hiding the islands ahead (not like in the picture below), making the player glide into the fog then revealing a bunch of islands with whales souring around them. Giving the player an epic feeling. 
+Midlevel there is a giant leap of faith, fog should be hiding the islands ahead (not like in the image below), making the player glide into the fog then revealing a bunch of islands with whales souring around them. Giving the player an epic feeling. 
 ![](/Assets/Level7_Ingame.png)
 ![](/Assets/Level7_Glide.png)
 ![](/Assets/Level7.png)
