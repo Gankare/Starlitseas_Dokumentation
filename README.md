@@ -32,7 +32,7 @@ There are no whales in this level to make the player focus on the new mechainc w
 ![](/Assets/Level3.png)
 
 ### Level 4: 
-The fourth level combines the new mechanis with the whale jumping and it has two different ways of getting to the goal, one way faster than the other but more risky for the player that want to speedrun.
+The fourth level combines the new mechanics with the whale jumping and it has two different ways of getting to the goal, one way faster than the other but more risky for the players that want to speedrun.
 
 The level also has a new darker look, making it feel like your higher up than in previous levels.
 ![](/Assets/Level4_Ingame.png)
