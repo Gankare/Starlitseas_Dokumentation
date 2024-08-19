@@ -20,7 +20,7 @@ Level 1 is straight forward with only whale sharks, making it hard to fail. The 
 ![](/Assets/Level1.png)
 
 ### Level2: 
-This second level is sleightly longer, moving uppwards making it harder to jump on the whales, introdusing blowwhales that shoots the player in the air when walking on them. 
+The second level is sleightly longer, moving upwards making it harder to jump on the whales, introducing blow whales that shoots the player in the air when walking on them.
 ![](/Assets/Level2_Ingame.png)
 Still an easy level but introdusing new elements.
 ![](/Assets/Level2.png)
