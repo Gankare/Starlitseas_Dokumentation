@@ -8,5 +8,9 @@ I thoght it looked wierd when they spawned in out of nowhere so i created a scri
 ![](/Assets/WhaleFade.gif)
 
 ### LevelDesign
-Starlitseas has 8 levels and i made them increassingly harder with obsticles, 
+Starlitseas has 8 levels and i made them increassingly harder and longer.
+Level1:
+![](/Assets/Level1.png)
+![](/Assets/Level1_Ingame.png)
+
 
