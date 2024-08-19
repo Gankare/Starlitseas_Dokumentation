@@ -19,8 +19,9 @@ It looks like this:
 ![](/Assets/BlowHole_Gif.gif)
 
 ### Spirit Guide: 
-I added a talking ray that gives the player tips on what to do or encurrages the player to keep going every level. It's made with 3D widget over the ray, the ray always facing the player so that the text is facing the player. The text only shows when the player is close to the ray.
+I added a talking ray that gives the player tips on what to do or encourages the player to keep going every level. The text is a 3D widget set over the ray, the ray is always facing the player with the text. The text only shows when the player is close to the ray. 
 
+Scipt of how this is done:
 ![](/Assets/TalkingRayScript.png)
 The rays text is set in the level blueprint. You can see the sprirt guide in the leveldesign images below. 
 ![](/Assets/RayText_LevelBlueprint.png)
