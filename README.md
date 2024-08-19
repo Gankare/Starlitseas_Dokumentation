@@ -53,3 +53,8 @@ I also added the giant whale in the background to add to the fantasy feel. The g
 The level is like the third level but harder. It takes a combination of all the mechanics to beat it, this level is where most players gets stuck a while and it's to makes the player ready for the last two levels.
 ![](/Assets/Level6.png)
 
+### Level7: 
+The seventh level is the longest one, it has 2 different ways for the player to go right from the start, one faster than the other. There is a bunch of gliding in this level and it gives of a magical/fantasy feeling.
+![](/Assets/Level7_Ingame.png)
+
+![](/Assets/Level7.png)
