@@ -5,7 +5,7 @@ The character is half of the game, espacially in a parkour speedrun game. So i w
 Image of whole player movement scipt:
 ![](/Assets/PlayerCharacter_WholeScript.png)
 
-
+Making movement for jumping upwards on moving animated whales was hard, making it feel like the player is moving fast but still not making the game to hard. 
 
 ## Small features
 ### Fade in and out the whales: 
