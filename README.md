@@ -8,13 +8,18 @@ I thoght it looked wierd when they spawned in out of nowhere so i created a scri
 ![](/Assets/FadeScript.png)
 ![](/Assets/WhaleFade.gif)
 
+### Spirit Guide: 
+I added a talking ray that gives the player tips on what to do or encurrages the player to keep going every level. It's made with 3D widget over the ray, the ray always facing the player so that the text is facing the player. The rays text is set in the level blueprint.
+![](/Assets/TalkingRayScript.png)
+![](/Assets/RayText_LevelBlueprint.png)
+
 ### Blowhole water effect: 
 When stepping on a blowwhales hole, the player gets shot up giving a speed boost. I added sound and made a water material to the boost for more of a feel.
 
 I set the material the players screen for two secomds when steeping on the hole:
 ![](/Assets/BlowholeWaterEffect_Script.png)
-
 It looks like this: 
+
 ![](/Assets/BlowHole_Gif.gif)
 
 ## LevelDesign
