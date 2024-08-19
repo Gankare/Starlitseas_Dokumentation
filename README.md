@@ -16,7 +16,11 @@ The player follows the whales and floating islands throughout every level, the w
 The first level starts at the beach and the bridge is higher than the player can walk, so the only way to get forward in the game is to learn to jump. there is also a spirit guide that shows the player the basic controls.
 
 ![](/Assets/Level1_Ingame.png)
-Level 1 is straight forward making it hard to fail, the player learns to jump on whales that slowly moves forward.
+Level 1 is straight forward with only whale sharks, making it hard to fail. The player learns to jump on whales that slowly moves forward.
 ![](/Assets/Level1.png)
 
 ### Level2: 
+This second level is sleightly longer, moving uppwards making it harder to jump on the whales, introdusing blowwhales that shoots the player in the air when walking on them. 
+![](/Assets/Level2_Ingame.png)
+Still an easy level but introdusing new elements.
+![](/Assets/Level2.png)
