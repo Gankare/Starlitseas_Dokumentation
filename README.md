@@ -1,6 +1,6 @@
 # Some of my work on Starlitseas
 ## Character movement and abillites
-The character is half of the game, espacially in a parkour speedrun game. So i work on the movement on and of the entire project, the movement script is pretty big so i wont go over it all. 
+The character is half of the game, espacially in a parkour speedrun game. So i worked on the movement on and off the entire project, the movement script is pretty big so i wont go over it all. 
 
 Image of whole player movement scipt:
 ![](/Assets/PlayerCharacter_WholeScript.png)
