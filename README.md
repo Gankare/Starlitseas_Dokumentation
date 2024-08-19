@@ -2,7 +2,7 @@
 ## Character movement and abillites
 The character is half of the game, espacially in a parkour speedrun game. So i work on the movement on and of the entire project, the movement script is pretty big so i wont go over it all. 
 
-Image of whole scipt:
+Image of whole player movement scipt:
 ![](/Assets/PlayerCharacter_WholeScript.png)
 
 
