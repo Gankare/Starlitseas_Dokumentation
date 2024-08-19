@@ -8,7 +8,7 @@ I thoght it looked wierd when they spawned in out of nowhere so i created a scri
 ![](/Assets/WhaleFade.gif)
 
 ### LevelDesign
-Starlitseas has 8 levels and i made them increasingly harder and longer, adding different obsticles and changing the envoiroment to make every level special while keeping the same theme. 
+Starlitseas has 8 levels, every level going upwards towards heaven, i made them increasingly harder and longer, adding different obsticles and changing the envoiroment to make every level special while keeping the same theme. 
 
 The player follows the whales and floating islands throughout every level, the whales follows splines and thats how the levels are built. 
 
@@ -32,7 +32,8 @@ There are no whales in this level to make the player focus on the new mechainc w
 ![](/Assets/Level3.png)
 
 ### Level4: 
-The forth level has a new look and combines the new mechanis with the whale jumping and it has two different ways of getting to the goal, one way faster than the other but more risky for the player that want to speedrun.
+The forth level combines the new mechanis with the whale jumping and it has two different ways of getting to the goal, one way faster than the other but more risky for the player that want to speedrun.
+The level also has a new darker look, making it feel like your higher up than in previous levels.
 ![](/Assets/Level4_Ingame.png)
 The level also introduces the first obsticle that can kill you, the jellyfish rings are at the end of the level and makes for a more interesting gammeplay.
 ![](/Assets/Level4.png)
