@@ -46,7 +46,7 @@ The fifth level is pretty straight forward, The splines are tight together with 
 ![](/Assets/Level5.png)
 
 ### Level6: 
-The sixth level is an introduction level for the dash mechanic, the look of the level is lighter with an aurora and fantasy feel, to create the feeling of heading towards space/upwards. I also added the giant whale in the background to add to the fantasy feel.
+The sixth level is an introduction level for the dash mechanic, the look of the level is lighter with an aurora and fantasy feel, to create the feeling of heading towards space/upwards. I also added the giant whale in the background to add to the fantasy feel. The giant whale slowly goes around the map with the help of a springarm set in the middle of the map.
 ![](/Assets/Level6_Ingame.png)
 The level is like the third level but harder. It takes a combination of all the mechanics to beat it, this level is where most players gets stuck a while and it's to makes the player ready for the last two levels.
 ![](/Assets/Level6.png)
