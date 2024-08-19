@@ -24,3 +24,9 @@ The second level is sleightly longer, moving upwards making it harder to jump on
 ![](/Assets/Level2_Ingame.png)
 Still an easy level but introdusing new elements.
 ![](/Assets/Level2.png)
+
+### Level3: 
+The third level is an introduction level for the glide mechanic, the only way to get from one platform to another is to glide. Making the player learn how to use the mechanic in different ways. 
+![](/Assets/Level3_Ingame.png)
+There is no whales in this level to make the player focus on the new mechainc without being stressed by constantly having to move forward.
+![](/Assets/Level3.png)
