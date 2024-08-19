@@ -8,7 +8,7 @@ I thoght it looked wierd when they spawned in out of nowhere so i created a scri
 ![](/Assets/WhaleFade.gif)
 
 ### LevelDesign
-Starlitseas has 8 levels, every level going upwards towards heaven. I made the levels increasingly harder and longer, the whales are guiding the player towards haven. adding different obsticles and changing the envoiroment to make every level special while keeping the same theme. 
+Starlitseas has 8 levels, every level going upwards towards heaven. I made the levels increasingly harder and longer, the whales are guiding the player towards haven. Adding different obsticles and changing the envoiroment to make every level special while keeping the same theme. 
 
 The player follows the whales and floating islands throughout every level, the whales follows splines and thats how the levels are built. 
 
