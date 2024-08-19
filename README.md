@@ -1,7 +1,7 @@
 # My work
 ### Character movement and abillites
 
-### Small features
+## Small features
 ### Fade in and out the whales: 
 To many whales at the same time made the game lagg so i added render distance to the whales.
 I thoght it looked wierd when they spawned in out of nowhere so i created a script that fades the material of the whales in and out:
@@ -17,7 +17,7 @@ It looks like this:
 
 ![](/Assets/BlowHole_Gif.gif)
 
-### LevelDesign
+## LevelDesign
 Starlitseas has 8 levels, every level going upwards towards heaven. I made the levels increasingly harder and longer, the whales are guiding the player towards haven. Adding different obsticles and changing the envoiroment to make every level special while keeping the same theme. 
 
 The player follows the whales and floating islands throughout every level, the whales follows splines and thats how the levels are built. 
