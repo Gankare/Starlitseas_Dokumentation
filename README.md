@@ -36,7 +36,7 @@ The fourth level combines the new mechanics with the whale jumping and it has tw
 
 The level also has a new darker look, making it feel like your higher up than in previous levels.
 ![](/Assets/Level4_Ingame.png)
-The level also introduces the first obsticle that can kill you, the jellyfish rings are at the end of the level and makes for a more interesting gammeplay, having to glide through them.
+The level also introduces the first obsticle that can kill you, the jellyfish rings are at the end of the level and makes for a more interesting gameplay, having to glide through them.
 ![](/Assets/Level4.png)
 
 ### Level 5: 
