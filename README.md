@@ -1,4 +1,4 @@
-# Starlitseas - What i have created and worked on
+# Starlitseas - My work
 ### LevelDesign
 ### Character movement and abillites
 ### Small features
