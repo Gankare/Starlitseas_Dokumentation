@@ -16,7 +16,7 @@ Level1:
 
 The first level Starts at the beach and the bridge is higher than the player can walk so the only way to get forward in the game is to learn to jump. there is also a spirit guide that shows the player the basic controls.
 
-Level 1 is streight forward making it hard to fail, the player learns to jump on whales that slowly moves forward.
+Level 1 is straight forward making it hard to fail, the player learns to jump on whales that slowly moves forward.
 ![](/Assets/Level1_Ingame.png)
 ![](/Assets/Level1.png)
 
