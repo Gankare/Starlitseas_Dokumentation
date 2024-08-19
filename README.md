@@ -28,7 +28,7 @@ Still an easy level but introdusing new elements.
 ### Level3: 
 The third level is an introduction level for the glide mechanic and boosting rings, the only way to get from one platform to another is to use the glider and the boosts. Making the player learn how to use the mechanic in different ways. 
 ![](/Assets/Level3_ingame.png)
-There is no whales in this level to make the player focus on the new mechainc without being stressed by constantly having to move forward.
+There are no whales in this level to make the player focus on the new mechainc without being stressed by constantly having to move forward.
 ![](/Assets/Level3.png)
 
 ### Level4: 
