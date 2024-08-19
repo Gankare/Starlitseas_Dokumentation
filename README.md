@@ -8,7 +8,7 @@ I thoght it looked wierd when they spawned in out of nowhere so i created a scri
 ![](/Assets/WhaleFade.gif)
 
 ### LevelDesign
-Starlitseas has 8 levels, every level going upwards towards heaven, i made them increasingly harder and longer, adding different obsticles and changing the envoiroment to make every level special while keeping the same theme. 
+Starlitseas has 8 levels, every level going upwards towards heaven. I made the levels increasingly harder and longer, the whales showing the player to the heavens. adding different obsticles and changing the envoiroment to make every level special while keeping the same theme. 
 
 The player follows the whales and floating islands throughout every level, the whales follows splines and thats how the levels are built. 
 
@@ -62,5 +62,9 @@ Midlevel there is a giant leap of faith, fog should be hiding the islands ahead 
 ![](/Assets/Level7.png)
 
 ### Level 8: 
+The eight level is the last level before ariving in heaven. whales flying in every direction and then going down again giving the feeling they have reached thier destination, leading the player towards the sky. This is the most magical looking level.
+
+To get to the end the player has to jump from island to island, every island higher than the last, reaching the top taking them to heaven and clearing the game. 
 ![](/Assets/Level8_Ingame.png)
+This is not soppose to be the hardest level more like a cool finishing level for the player to enjoy.
 ![](/Assets/Level8.png)
