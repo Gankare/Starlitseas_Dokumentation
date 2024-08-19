@@ -62,7 +62,7 @@ Midlevel there is a giant leap of faith, fog should be hiding the islands ahead 
 ![](/Assets/Level7.png)
 
 ### Level 8: 
-The eight level is the last level before ariving in heaven. whales flying in every direction and then going down again giving the feeling they have reached thier destination, leading the player towards the sky. This is the most magical looking level.
+The eight level is the last level before arriving in heaven. Whales flying in every direction and then going down again giving the feeling they have reached their destination, leading the player towards the sky. This is the most magical looking level.
 
 To get to the end the player has to jumo and dash from island to island, every island higher than the last, reaching the top taking them to heaven and clearing the game. 
 ![](/Assets/Level8_Ingame.png)
