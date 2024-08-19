@@ -26,7 +26,7 @@ Still an easy level but introdusing new elements.
 ![](/Assets/Level2.png)
 
 ### Level3: 
-The third level is an introduction level for the glide mechanic, the only way to get from one platform to another is to glide. Making the player learn how to use the mechanic in different ways. 
+The third level is an introduction level for the glide mechanic and boosting rings, the only way to get from one platform to another is to glider and the boosts. Making the player learn how to use the mechanic in different ways. 
 ![](/Assets/Level3_ingame.png)
 There is no whales in this level to make the player focus on the new mechainc without being stressed by constantly having to move forward.
 ![](/Assets/Level3.png)
@@ -34,5 +34,5 @@ There is no whales in this level to make the player focus on the new mechainc wi
 ### Level4: 
 The forth level combines the new mechanis with the whale jumping and it has two different ways of getting to the goal, one way faster than the other but more risky for the player that want to speedrun.
 ![](/Assets/Level4_Ingame.png)
-
+The level also introduces the first obsticle that can kill you, the jellyfish rings are at the end of the level and makes for a more interesting gmameplay.
 ![](/Assets/Level4.png)
