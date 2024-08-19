@@ -13,6 +13,8 @@ When stepping on a blowwhales hole, the player gets shoot up giving a speed boos
 
 I set the material the players screen for two secomds when steeping on the hole:
 ![](/Assets/BlowholeWaterEffect_Script.png)
+It looks like this: 
+![](/Assets/BlowHole_Gif.gif)
 
 ### LevelDesign
 Starlitseas has 8 levels, every level going upwards towards heaven. I made the levels increasingly harder and longer, the whales are guiding the player towards haven. Adding different obsticles and changing the envoiroment to make every level special while keeping the same theme. 
