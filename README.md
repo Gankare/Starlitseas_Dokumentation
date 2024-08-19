@@ -54,7 +54,7 @@ The level is like the third level but harder. It takes a combination of all the 
 ![](/Assets/Level6.png)
 
 ### Level 7: 
-The seventh level is the longest one, it has 2 different ways for the player to go right from the start, one faster than the other. There is a bunch of gliding in this level and it gives of a magical/fantasy feeling.
+The seventh level is the longest one, it has two possible paths for the player to go right from the start, one faster than the other. There is a bunch of gliding in this level and it gives of a magical/fantasy feeling.
 
 Midlevel there is a giant leap of faith, fog should be hiding the islands ahead (not like in the picture below), making the player glide into the fog then revealing a bunch of islands with whales souring around them. Giving the player an epic feeling. 
 ![](/Assets/Level7_Ingame.png)
