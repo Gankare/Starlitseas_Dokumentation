@@ -13,8 +13,8 @@ When stepping on a blowwhales hole, the player gets shot up giving a speed boost
 
 I set the material the players screen for two secomds when steeping on the hole:
 ![](/Assets/BlowholeWaterEffect_Script.png)
-It looks like this: 
 
+It looks like this: 
 ![](/Assets/BlowHole_Gif.gif)
 
 ## LevelDesign
