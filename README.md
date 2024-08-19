@@ -30,3 +30,9 @@ The third level is an introduction level for the glide mechanic, the only way to
 ![](/Assets/Level3_ingame.png)
 There is no whales in this level to make the player focus on the new mechainc without being stressed by constantly having to move forward.
 ![](/Assets/Level3.png)
+
+### Level4: 
+The forth level combines the new mechanis with the whale jumping and it has two different ways of getting to the goal, one way faster than the other but more risky for the player that want to speedrun.
+![](/Assets/Level4_Ingame.png)
+
+![](/Assets/Level4.png)
