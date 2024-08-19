@@ -40,8 +40,14 @@ The level also introduces the first obsticle that can kill you, the jellyfish ri
 ![](/Assets/Level4.png)
 
 ### Level5: 
-
+The fifth level is pretty straight forward, The splines are tight together with alot of obsticles to make it slower and harder for the player to go around them.
 ![](/Assets/Level5_Ingame.png)
 
 ![](/Assets/Level5.png)
+
+### Level6: 
+The sixth level is an introduction level for the dash mechanic, the look of the level is is more 
+![](/Assets/Level6_Ingame.png)
+The level is like the third level but harder. It takes a combination of all the mechanis to beat it, this level is where most players gets stuck a while and its to makes the player ready for the last two levels.
+![](/Assets/Level6.png)
 
