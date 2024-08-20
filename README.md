@@ -1,6 +1,6 @@
 # Filip Salomonsson - Some of my work on Starlitseas 
 ## Character movement
-The character is half of the game, espacially in a parkour speedrun game. So I worked on the movement on and off the entire project, the movement script is pretty big so i wont go over it all. 
+The character is half of the game, espacially in a parkour speedrun game. So I worked on the movement on and off the entire project, the movement script is pretty big so I won't go over it all. 
 
 Image of whole player movement script:
 ![](/Assets/PlayerCharacter_WholeScript.png)
@@ -8,7 +8,7 @@ Image of whole player movement script:
 Making movement for jumping upwards on moving animated whales was hard, making it feel like the player is moving fast but still not making the game to hard. 
 
 ### Making the movement feel fast:
-The script below is the update/tick event. To make the movement feel faster than it is, I added increassed fov and speed lines running down the screen when moving. 
+The script below is the update/tick event. To make the movement feel faster than it is, I added increased fov and speed lines running down the screen when moving. 
 ![](/Assets/Update_PlayerScript.png)
 
 ### Whale tail jump:
@@ -22,12 +22,12 @@ I also made it look like a tail slap animation by speeding up the whales basic a
 
 ![](/Assets/TailJump.gif)
 
-## Abillites
+## Abilites
 Our team decided on having abilities that gives the movement more flare, we had serveral ideas during the creation of Starlitseas but landed on a glider like in fortnite and a dash like the character Genji's ability from Overwatch. 
 
 ### Glide ability:
 Making the gliding ability was challenging, I started by downloading animations from Mixamo for the Unreal mannequin doll. The animations was for jumping/standing to hanging and hanging Idle. 
-Then i blended them together depending on the players velocity when deploying the gilder. 
+Then I blended them together depending on the players velocity when deploying the gilder. 
 
 ![](/Assets/Hanging_Animations.png)
 
