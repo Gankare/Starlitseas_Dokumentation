@@ -23,8 +23,14 @@ I also made it look like a tail slap animation by speeding up the whales basic a
 ![](/Assets/TailJump.gif)
 
 ## Abillites
-Our team decide on having abilities that gives the movement more flare, we decided on a serveral during different abilities during the creation of Starlitseas but landed on a glider like in fortnite and a dash like in overwatch. 
+Our team decided on having abilities that gives the movement more flare, we had serveral ideas during the creation of Starlitseas but landed on a glider like in fortnite and a dash like the character Genji's ability from Overwatch. 
+
 ### Glide ability:
+I made the dash launch the player at a set speed in the direction that the camera is facing. To make it more notizeble that an ability was just used I rapidly increase the fov and made the speed lines on the screen turn green for like a sec.
+![](/Assets/DashScript.png)
+This is how the dash turned out: 
+
+![](/Assets/DashGif.gif)
 
 ### Dash ability:
 Adding a dash ability for the last three levels made for 
@@ -93,7 +99,9 @@ The fifth level is pretty straight forward, The splines are tight together with 
 ![](/Assets/Level5.png)
 
 ### Level 6: 
-The sixth level is an introduction level for the dash mechanic, the look of the level is lighter with an aurora and fantasy feel, to create the feeling of heading towards space/upwards. 
+The sixth level is an introduction level for the dash mechanic, the dash works like one of Genji's abilities in the game Overwatch meaning you go in the direction that you are looking. I noticed that many playtesters thought that the dash was only forward. To make every player understand how the dash works I made level six have floating islands above the player that only are accessible if the player dashes upwards.
+
+tThe look of the level is lighter with an aurora and fantasy feel, to create the feeling of heading towards space/upwards. 
 
 I also added the giant whale in the background to add to the fantasy feel. The giant whale slowly goes around the map with the help of a rotating springarm set in the middle of the map.
 ![](/Assets/Level6_Ingame.png)
