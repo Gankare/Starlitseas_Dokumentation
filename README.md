@@ -1,6 +1,6 @@
 # Filip Salomonsson - Some of my work on Starlitseas 
 ## Character movement
-The character is half of the game, espacially in a parkour speedrun game. So I worked on the movement on and off the entire project, the movement script is pretty big so I won't go over it all. 
+The character movement is half of the game, espacially in a parkour speedrun game. So I worked on the movement on and off the entire project, the movement script is pretty big so I won't go over it all. 
 
 Image of whole player movement script:
 ![](/Assets/PlayerCharacter_WholeScript.png)
