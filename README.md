@@ -90,7 +90,7 @@ The seventh level is the longest one, it has two possible paths for the player t
 
 Midlevel there is a giant leap of faith, fog should be hiding the islands ahead (not like in the image below), making the player glide into the fog then revealing a bunch of islands with whales souring around them. Giving the player an epic feeling. 
 ![](/Assets/Level7_Ingame.png)
-![](/Assets/Level7_Glide.png)
+![](/Assets/Level7_Glide.gif)
 ![](/Assets/Level7.png)
 
 ### Level 8: 
