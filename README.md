@@ -26,14 +26,23 @@ I also made it look like a tail slap animation by speeding up the whales basic a
 Our team decided on having abilities that gives the movement more flare, we had serveral ideas during the creation of Starlitseas but landed on a glider like in fortnite and a dash like the character Genji's ability from Overwatch. 
 
 ### Glide ability:
+Making the gliding ability was challenging, I started by downloading animations from Mixamo for the Unreal mannequin doll. The animations was for jumping/standing to hanging and hanging Idle. 
+Then i blended them together depending on the players velocity when deploying the gilder. I made a spirit pet that allways circles the player untill the glider is deployed then the pet becomes the glider. I made an animation for the glider to go up in size in a sec, I also added a material that stick to the spirit ray(the glider) that gives it a magical look.
 
+Deploying and landing with the glider looks like this: 
+
+![](/Assets/DeployGlider.gif)
 
 ### Dash ability:
-I made the dash launch the player at a set speed in the direction that the camera is facing. To make it more notizeble that an ability was just used I rapidly increase the fov and made the speed lines on the screen turn green for like a sec.
+I made the dash launch the player at a set speed in the direction that the camera is facing. To make it more notizeble that an ability was just used I rapidly increase the fov and made the speed lines on the screen turn green for like a sec. The dash also resets the gilder ability.
 ![](/Assets/DashScript.png)
 The gif below shows both the abilities combined: 
 
 ![](/Assets/DashGif.gif)
+
+## Reset on ground touch
+Script below shows when the player is touching the ground the abillites and jump resets, Also creates camerashake depending on how fast the player hits the ground. 
+![](/Assets/ResetJumpAndSprint_Script.png)
 
 ## Small features
 ### Fade in and out the whales: 
