@@ -39,41 +39,41 @@ Deploying and landing with the glider looks like this:
 
 The gilder works by setting the velocity upwards to zero, removing gravity and adding a small force downwards. It worked but caused many problems when other forces effected the players velocity, this caused the player to be launched out of the map because of the zero gravity. I fixed it by removing the glider and adding back gravity everytime a tail jump, boost ring or blowhole added force to the player. 
 
-This may sound like a bad fix but it made for a more interactive gameplay deploying and reploying the glider, I also made the glider give the player a small speedboost forward when deploying . It also makes for more speedrunning possibilities when the player learns how to combine different movement boosts in combination. 
+This may sound like a bad fix but it made for a more interactive gameplay deploying and reploying the glider, I also made the glider give the player a small speedboost forward when deploying. It also makes for more speedrunning possibilities when the player learns how to combine different movement boosts in combination. 
 
 The Glider script(it's to big to show clearly):
 ![](/Assets/GliderScript.png)
 
 ### Dash ability:
-I made the dash launch the player at a set speed in the direction that the camera is facing. To make it more notizeble that an ability was just used I rapidly increase the fov and made the speed lines on the screen turn green for like a sec. The dash also resets the gilder ability.
+I made the dash launch the player at a set speed in the direction that the camera is facing. To make it more noticable that an ability was just used I rapidly increase the fov and made the speed lines on the screen turn green for about a sec. The dash also resets the gilder ability.
 ![](/Assets/DashScript.png)
 The gif below shows both the abilities combined: 
 
 ![](/Assets/DashGif.gif)
 
 ## Reset on ground touch
-Script below shows when the player is touching the ground the abillites and jump resets, Also creates camerashake depending on how fast the player hits the ground. 
+Script below shows when the player is touching the ground the abilites and jump resets. Also creates camerashake depending on how fast the player hits the ground. 
 ![](/Assets/ResetJumpAndSprint_Script.png)
 
 ## Small features
-### Fade in and out the whales: 
-To many whales at the same time made the game lagg so I added render distance to the whales.
-I thoght it looked wierd when they spawned in out of nowhere so I created a script that fades the material of the whales in and out:
+### Fadeing in and out the whales: 
+To many whales at the same time made the game lag so I added render distance to the whales.
+I thought it looked weird when they spawned in out of nowhere so I created a script that fades the material of the whales in and out:
 ![](/Assets/FadeScript.png)
 ![](/Assets/WhaleFade.gif)
 
 
 ### Blowhole water effect: 
-When stepping on a blowwhales hole, the player gets shot up giving a speed boost. I added sound and made a water material to the boost for more of a feel.
+When stepping on a blow whales hole, the player gets shot up giving a speed boost. I added sound and made a water material to the boost for more of a feel.
 
-I set the material the players screen for two secomds when steeping on the hole:
+I set the material on the players screen for two seconds when stepping on the hole:
 ![](/Assets/BlowholeWaterEffect_Script.png)
 It looks like this: 
 
 ![](/Assets/BlowHole_Gif.gif)
 
 ### Spirit Guide: 
-I added a talking ray that gives the player tips on what to do or encourages the player to keep going every level. The text is a 3D widget set over the ray, the ray is always facing the player with the text. The text only shows when the player is close to the ray. 
+I added a talking ray that gives the player tips on what to do/encourages the player to keep going every level. The text is a 3D widget set over the ray, the ray is always facing the player with the text. The text only shows when the player is close to the ray. 
 
 Scipt of how this is done:
 ![](/Assets/TalkingRayScript.png)
@@ -81,7 +81,7 @@ The rays text is set in the level blueprint. You can see the sprirt guide in the
 ![](/Assets/RayText_LevelBlueprint.png)
 
 ## LevelDesign
-Starlitseas has 8 levels, every level going upwards towards heaven. I made the levels increasingly harder and longer, the whales are guiding the player towards haven. Adding different obsticles and changing the envoiroment to make every level special while keeping the same theme. 
+Starlitseas has 8 levels, every level going upwards towards heaven. I made the levels increasingly harder and longer, the whales are guiding the player towards heaven. Adding different obsticles and changing the envoiroment to make every level special while keeping the same theme. 
 
 The player follows the whales and floating islands throughout every level, the whales follows splines and thats how the levels are built. 
 
@@ -101,7 +101,7 @@ Still an easy level but introducing new elements.
 ### Level 3: 
 The third level is an introduction level for the glide mechanic and boosting rings, the only way to get from one platform to another is to use the glider and the boosts. Making the player learn how to use the mechanic in different ways. 
 ![](/Assets/Level3_ingame.png)
-There are no whales in this level to make the player focus on the new mechainc without being stressed by constantly having to move forward.
+There are no whales in this level to make the player focus on the new mechanic without being stressed by constantly having to move forward.
 ![](/Assets/Level3.png)
 
 ### Level 4: 
@@ -121,7 +121,7 @@ The fifth level is pretty straight forward, The splines are tight together with 
 ### Level 6: 
 The sixth level is an introduction level for the dash mechanic, the dash works like one of Genji's abilities in the game Overwatch meaning you go in the direction that you are looking. I noticed that many playtesters thought that the dash was only forward. To make every player understand how the dash works I made level six have floating islands above the player that only are accessible if the player dashes upwards.
 
-tThe look of the level is lighter with an aurora and fantasy feel, to create the feeling of heading towards space/upwards. 
+The look of the level is lighter with an aurora and fantasy feel, to create the feeling of heading towards space/heaven. 
 
 I also added the giant whale in the background to add to the fantasy feel. The giant whale slowly goes around the map with the help of a rotating springarm set in the middle of the map.
 ![](/Assets/Level6_Ingame.png)
@@ -131,7 +131,7 @@ The level is like the third level but harder. It takes a combination of all the 
 ### Level 7: 
 The seventh level is the longest one, it has two possible paths for the player to go right from the start, one faster than the other. There is a bunch of gliding in this level and it gives of a magical/fantasy feeling.
 
-Midlevel there is a giant leap of faith, fog should be hiding the islands ahead (not like in the image below), making the player glide into the fog then revealing a bunch of islands with whales souring around them. Giving the player an epic feeling. 
+Midlevel there is a giant leap of faith, fog should be hiding the islands ahead (not like in the image below), making the player glide into the fog then revealing a bunch of islands with whales soaring around them. Giving the player an epic feeling. 
 ![](/Assets/Level7_Ingame.png)
 ![](/Assets/Level7_Glide.gif)
 ![](/Assets/Level7.png)
