@@ -7,7 +7,7 @@ Image of whole player movement script:
 
 Making movement for jumping upwards on moving animated whales was hard, making it feel like the player is moving fast but still not making the game to hard. 
 
-### Make the movement feel fast:
+### Making the movement feel fast:
 The script below is the update/tick event. To make the movement feel faster than it is, I added increassed fov and speed lines running down the screen when moving. 
 ![](/Assets/Update_PlayerScript.png)
 
@@ -41,7 +41,7 @@ The gilder works by setting the velocity upwards to zero, removing gravity and a
 
 This may sound like a bad fix but it made for a more interactive gameplay deploying and reploying the glider, I also made the glider give the player a small speedboost forward when deploying . It also makes for more speedrunning possibilities when the player learns how to combine different movement boosts in combination. 
 
-The Glider script:
+The Glider script(it's to big to show clearly):
 ![](/Assets/GliderScript.png)
 
 ### Dash ability:
