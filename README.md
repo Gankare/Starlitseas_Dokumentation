@@ -31,13 +31,13 @@ Then I blended them together depending on the players velocity when deploying th
 
 ![](/Assets/Hanging_Animations.png)
 
-I made a spirit pet that allways circles the player untill the glider is deployed then the pet becomes the glider. I made an animation for the glider to go up in size in a sec, I also added a material that stick to the spirit ray(the glider) that gives it a magical look.
+I made a spirit pet that always circles the player until the glider is deployed then the pet becomes the glider. I made an animation for the glider to go up in size in a sec, I also added a material that stick to the spirit ray(the glider) that gives it a magical look.
 
 Deploying and landing with the glider looks like this: 
 
 ![](/Assets/DeployGlider.gif)
 
-The gilder works by setting the velocity upwards to zero, removing gravity and adding a force small force downwards. It works but caused many problem because if other things put force on the players body it would fly away with the zero gravity so I fixed it by removing the glider and adding back gravity everytime a tail jump, boost ring or blowhole added force to the player. 
+The gilder works by setting the velocity upwards to zero, removing gravity and adding a small force downwards. It worked but caused many problems when other forces effected the players velocity, this caused the player to be launched out of the map because of the zero gravity. I fixed it by removing the glider and adding back gravity everytime a tail jump, boost ring or blowhole added force to the player. 
 
 This may sound like a bad fix but it made for a more interactive gameplay deploying and reploying the glider, I also made the glider give the player a small speedboost forward when deploying . It also makes for more speedrunning possibilities when the player learns how to combine different movement boosts in combination. 
 
