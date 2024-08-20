@@ -5,7 +5,8 @@ The character is half of the game, espacially in a parkour speedrun game. So i w
 Image of whole player movement script:
 ![](/Assets/PlayerCharacter_WholeScript.png)
 
-Making movement for jumping upwards on moving animated whales was hard, making it feel like the player is moving fast but still not making the game to hard. 
+Making movement for jumping upwards on moving animated whales was hard, making it feel like the player is moving fast but still not making the game to hard. For the illusion of making it feel fast i added increassed fov and speed lines running down the screen when moving. 
+![](/Assets/Update_PlayerScript.png)
 
 ## Small features
 ### Fade in and out the whales: 
