@@ -1,5 +1,5 @@
 # Filip Salomonsson - Some of my work on Starlitseas 
-## Character movement and abillites
+## Character movement
 The character is half of the game, espacially in a parkour speedrun game. So I worked on the movement on and off the entire project, the movement script is pretty big so i wont go over it all. 
 
 Image of whole player movement script:
@@ -16,15 +16,18 @@ When the whales are moving upwards their animated tails sometimes used to block 
 
 I put a collider check on the whales tails calling the players ledgejump script.
 ![](/Assets/Tailboost_WhaleScript.png)
-When the players ledgejump script gets called, check if the player is holding space and if so do a tailjump.
+When the players ledgejump script gets called, check if the player is holding space and if so do a tail jump.
 ![](/Assets/Ledgejump_Script.png)
 I also made it look like a tail slap animation by speeding up the whales basic animation for one second when jumping on its tail. It looks like this: 
 
 ![](/Assets/TailJump.gif)
 
+## Abillites
+Our team decide on having abilities that gives the movement more flare, we decided on a serveral during different abilities during the creation of Starlitseas but landed on a glider like in fortnite and a dash like in overwatch. 
 ### Glide ability:
 
 ### Dash ability:
+Adding a dash ability for the last three levels made for 
 
 ## Small features
 ### Fade in and out the whales: 
