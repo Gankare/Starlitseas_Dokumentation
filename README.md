@@ -5,8 +5,14 @@ The character is half of the game, espacially in a parkour speedrun game. So i w
 Image of whole player movement script:
 ![](/Assets/PlayerCharacter_WholeScript.png)
 
-Making movement for jumping upwards on moving animated whales was hard, making it feel like the player is moving fast but still not making the game to hard. For the illusion of making it feel fast i added increassed fov and speed lines running down the screen when moving. 
+Making movement for jumping upwards on moving animated whales was hard, making it feel like the player is moving fast but still not making the game to hard. 
+
+The script below is the update/tick event. To make the movement feel faster than it is, i added increassed fov and speed lines running down the screen when moving. 
 ![](/Assets/Update_PlayerScript.png)
+
+When the whales are moving upwards thier animated tails sometimes used to block the player from jumping onto the whales back. To fix this problem i added a tailjump i called ledgejump. When the player is holding space near a tail the player gets boosted into the air, like the tail is hitting the player upwards making the player be able to scale the whales instead of getting blocked by the tail and falling off.
+
+
 
 ## Small features
 ### Fade in and out the whales: 
