@@ -19,6 +19,7 @@ I put a collider check on the whales tails calling the players ledgejump script.
 When the players ledgejump script gets called, check if the player is holding space and if so do a tailjump.
 ![](/Assets/Ledgejump_Script.png)
 I also made it look like a tail slap animation by speeding up the whales basic animation for one second when jumping on its tail. It looks like this: 
+
 ![](/Assets/TailJump.gif)
 
 ### Glide ability:
