@@ -26,14 +26,14 @@ I also made it look like a tail slap animation by speeding up the whales basic a
 Our team decided on having abilities that gives the movement more flare, we had serveral ideas during the creation of Starlitseas but landed on a glider like in fortnite and a dash like the character Genji's ability from Overwatch. 
 
 ### Glide ability:
-I made the dash launch the player at a set speed in the direction that the camera is facing. To make it more notizeble that an ability was just used I rapidly increase the fov and made the speed lines on the screen turn green for like a sec.
-![](/Assets/DashScript.png)
-This is how the dash turned out: 
 
-![](/Assets/DashGif.gif)
 
 ### Dash ability:
-Adding a dash ability for the last three levels made for 
+I made the dash launch the player at a set speed in the direction that the camera is facing. To make it more notizeble that an ability was just used I rapidly increase the fov and made the speed lines on the screen turn green for like a sec.
+![](/Assets/DashScript.png)
+The gif below shows both the abilities combined: 
+
+![](/Assets/DashGif.gif)
 
 ## Small features
 ### Fade in and out the whales: 
