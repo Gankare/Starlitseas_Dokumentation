@@ -10,7 +10,7 @@ Making movement for jumping upwards on moving animated whales was hard, making i
 The script below is the update/tick event. To make the movement feel faster than it is, i added increassed fov and speed lines running down the screen when moving. 
 ![](/Assets/Update_PlayerScript.png)
 
-When the whales are moving upwards thier animated tails sometimes used to block the player from jumping onto the whales back. To fix this problem i added a tailjump i called ledgejump. When the player is holding space near a tail the player gets boosted into the air, like the tail is hitting the player upwards making the player be able to scale the whales instead of getting blocked by the tail and falling off. 
+When the whales are moving upwards thier animated tails sometimes used to block the player from jumping onto the whales back. To fix this problem i added a tail jump i called ledgejump. When the player is holding space near a tail the player gets boosted into the air, like the tail is hitting the player upwards making the player be able to scale the whales instead of getting blocked by the tail and falling off. 
 
 The script on the whale is a collider on its tail calling the players ledgejump script.
 ![](/Assets/Tailboost_WhaleScript.png)
