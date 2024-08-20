@@ -1,16 +1,16 @@
 # Filip Salomonsson - Some of my work on Starlitseas 
 ## Character movement and abillites
-The character is half of the game, espacially in a parkour speedrun game. So i worked on the movement on and off the entire project, the movement script is pretty big so i wont go over it all. 
+The character is half of the game, espacially in a parkour speedrun game. So I worked on the movement on and off the entire project, the movement script is pretty big so i wont go over it all. 
 
 Image of whole player movement script:
 ![](/Assets/PlayerCharacter_WholeScript.png)
 
 Making movement for jumping upwards on moving animated whales was hard, making it feel like the player is moving fast but still not making the game to hard. 
 
-The script below is the update/tick event. To make the movement feel faster than it is, i added increassed fov and speed lines running down the screen when moving. 
+The script below is the update/tick event. To make the movement feel faster than it is, I added increassed fov and speed lines running down the screen when moving. 
 ![](/Assets/Update_PlayerScript.png)
 
-When the whales are moving upwards thier animated tails sometimes used to block the player from jumping onto the whales back. To fix this problem i added a tail jump i called ledgejump. When the player is holding space near a tail the player gets boosted into the air, like the tail is hitting the player upwards making the player be able to scale the whales instead of getting blocked by the tail and falling off. 
+When the whales are moving upwards their animated tails sometimes used to block the player from jumping onto the whales back. To fix this problem i added a tail jump I called ledgejump. When the player is holding space near a tail the player gets boosted into the air, like the tail is hitting the player upwards making the player be able to scale the whales instead of getting blocked by the tail and falling off. 
 
 The script on the whale is a collider on its tail calling the players ledgejump script.
 ![](/Assets/Tailboost_WhaleScript.png)
@@ -22,8 +22,8 @@ I also made it look like a tail slap animation by speeding up the whales basic a
 
 ## Small features
 ### Fade in and out the whales: 
-To many whales at the same time made the game lagg so i added render distance to the whales.
-I thoght it looked wierd when they spawned in out of nowhere so i created a script that fades the material of the whales in and out:
+To many whales at the same time made the game lagg so I added render distance to the whales.
+I thoght it looked wierd when they spawned in out of nowhere so I created a script that fades the material of the whales in and out:
 ![](/Assets/FadeScript.png)
 ![](/Assets/WhaleFade.gif)
 
