@@ -2,7 +2,7 @@
 ## Character movement and abillites
 The character is half of the game, espacially in a parkour speedrun game. So i worked on the movement on and off the entire project, the movement script is pretty big so i wont go over it all. 
 
-Image of whole player movement scipt:
+Image of whole player movement script:
 ![](/Assets/PlayerCharacter_WholeScript.png)
 
 Making movement for jumping upwards on moving animated whales was hard, making it feel like the player is moving fast but still not making the game to hard. 
