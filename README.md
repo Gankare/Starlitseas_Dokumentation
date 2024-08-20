@@ -11,8 +11,12 @@ The script below is the update/tick event. To make the movement feel faster than
 ![](/Assets/Update_PlayerScript.png)
 
 When the whales are moving upwards thier animated tails sometimes used to block the player from jumping onto the whales back. To fix this problem i added a tailjump i called ledgejump. When the player is holding space near a tail the player gets boosted into the air, like the tail is hitting the player upwards making the player be able to scale the whales instead of getting blocked by the tail and falling off. 
-![](/Assets/FadeScript.png)
-I also added animations to the tails when jumping on them.
+
+The script on the whale is a collider on its tail calling the players ledgejump script.
+![](/Assets/Tailboost_WhaleScript.png)
+The player controller script checking if the player is holding space and if so ledgejump.
+![](/Assets/Ledgejump_Script.png)
+I also made it look like a tail slap animation by speeding up the whales basic animation for one second when jumping on its tail. It looks like this: 
 ![](/Assets/TailJump.gif)
 
 
