@@ -2,9 +2,7 @@
 ## Character movement
 The character movement is half of the game, espacially in a parkour speedrun game. So I worked on the movement on and off the entire project, the movement script is pretty big so I won't go over it all. 
 
-Image of whole player movement script:
-![](/Assets/PlayerCharacter_WholeScript.png)
-
+[PlayerController Script](https://blueprintue.com/blueprint/zrsn74_s/ )
 Making movement for jumping upwards on moving animated whales was hard, making it feel like the player is moving fast but still not making the game to hard. 
 
 ### Making the movement feel fast:
